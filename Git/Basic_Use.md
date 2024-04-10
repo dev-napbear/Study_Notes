@@ -12,3 +12,5 @@
 Install: Apple ships a binary package of Git with Xcode
 
 -hint: After creating a git repository, can use "Command + Shift + ." to show hidden ".git" file.
+
+**学到了14:44**
